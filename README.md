@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-<!--
 **yeamu/yeamu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,5 +12,17 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?yeamu)](https://github.com/yeamu)
+<br />
+
+<p align="left">
+  <img heigth="195" src="https://github-readme-stats.vercel.app/api?username=yeamu&show_icons=true&theme=synthwave" alt="nicejade :: Profile Stats" />
+</p>
+<p align="left">
+  <img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeamu&langs_count=10&theme=synthwave&layout=compact" alt="nicejade :: Top Langs" />
+</p>
+
+
+<p align="left">
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=yeamu&repo=Web-notes&theme=synthwave)](https://github.com/yeamu/Web-notes)
+<p/>

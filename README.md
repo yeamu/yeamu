@@ -20,9 +20,3 @@ Here are some ideas to get you started:
 <p align="left">
   <img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeamu&langs_count=10&theme=synthwave&layout=compact" alt="nicejade :: Top Langs" />
 </p>
-
-
-<p align="left">
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=yeamu&repo=Web-notes&theme=synthwave)](https://github.com/yeamu/Web-notes)
-<p/>
